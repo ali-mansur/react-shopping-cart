@@ -1,6 +1,6 @@
 Be sure to run an 'npm install' to install dependencies.
 
-Run 'npm build' command, to start a webpack-dev-server.
+Run 'npm start' command, to start a webpack-dev-server.
 
 Navigate to your localhost:1234
 
