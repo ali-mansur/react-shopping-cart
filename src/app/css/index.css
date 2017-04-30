@@ -1,0 +1,196 @@
+body{
+  font-family: sans-serif;
+}
+
+.cart-heading{
+	font-size: 22px;
+	color: #635e5e;
+	line-height: 50px;
+}
+
+.main-container{
+	width: 60%;
+	margin: 5% auto;
+}
+
+.item{
+	border-bottom: dotted;
+	border-bottom-color: #eee;
+	padding: 10px 0px;
+	color: #807a7a;
+}
+
+.item-image{
+	width: 100px;
+	height: 100px;
+	background-color: #eee;
+}
+
+.item-image img{ 
+	width: 100px;
+	height: 100px;
+}
+
+.item-details{
+	width: 50%;
+}
+
+.item-quantity-price{
+	width: 30%;
+}
+
+.clear{
+	clear: both;
+}
+
+.f-l{
+	float: left;
+}
+
+.item-container{
+	width: 77%;
+	margin: 0 auto;
+}
+
+.padding-5{
+	padding: 5px;
+}
+
+.remove-item{
+	line-height: 40px;
+	color: #ea3b3b;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+.item-details .name{
+	font-size: 18px;
+}
+
+.item-quantity-price span{
+	font-size: 12px;
+}
+
+.item-quantity-price select{
+	background-color: #c9c5c5;
+	border: none;
+	width: 50px;
+	height: 25px;
+    text-align-last: center;
+}
+
+.item-quantity-price .total{
+	font-size: 15px;
+	padding-left: 40px;
+}
+
+.shipping-img{
+	width: 60px;
+	height: 60px;
+	background-color: white;
+	border-radius: 50%;
+	margin-top: 25px;
+	padding: 15px;
+}
+
+.shipping-checkout{
+	width: 20%;
+}
+
+.shipping{
+	text-align: center;
+	background-color: #f2f2f2;
+	min-height: 285px;
+}
+
+.shipping p{
+	font-size: 9px;
+	padding: 5px 20px;
+}
+
+.sub-total{
+    padding: 15px 20px;
+    background-color: #e9ad1d;
+}
+
+.sub-total span {
+	font-size: 12px;
+}
+
+.sub-total p{
+	font-size: 20px;
+	text-align: center;
+	margin: 10px 0px;
+}  
+
+.sub-total button{
+	display: block;
+	margin: 0 auto;
+	line-height: 25px;
+	width: 100%;
+}
+
+header{
+  background-color: #f2f2f2;
+  height: 50px;
+}
+
+.main-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+.main-nav ul li {
+    float: left;
+}
+
+.main-nav ul li:last-child img {
+    width: 50px;
+    height: 50px;
+}
+
+.main-nav ul li a {
+    display: block;
+    color: #5f5e5e;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.main-nav{
+  width: 35%
+  
+}
+
+.store-name-logo{
+  width: 45%;
+  padding-left: 250px;
+}
+
+.store-name{
+  font-size: 20px;	
+  line-height: 50px;
+  padding: 0 20px;
+  font-weight: bold;
+  color: #716d6d;
+}
+
+.store-logo{
+  width: 200px;
+  height: 100px;
+  background-color: red;
+}
+
+.f-r{
+	float:right;
+}
+
+.cart-count{
+	margin-left: -50%;
+	color: #fb9208;
+	font-weight: bold;
+}
+
