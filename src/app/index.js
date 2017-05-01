@@ -91,7 +91,7 @@ var ShoppingCart = React.createClass({
                     </div>
 
                     <div className="f-l item-container">
-                        <div id="todo-list">
+                        <div>
                             <ul>{items}</ul>
                         </div>
                     </div>
